@@ -13,8 +13,8 @@ html, body {
 }
 
 .header {
-    padding: 60px 10px;
-    background:  grey;
+    padding: 30px 10px;
+    background:  purple;
     height: 100px; 
     
 }
@@ -52,10 +52,14 @@ a {
     text-align:center;
     margin:10px;
     box-shadow: 10px 4px 2px 2px #acb3b9;
+    
 }
 .lineup {
     border: 5px solid #73AD21;
 }
 .boorderline {
     border: 5px solid grey;
+}
+.img{
+    size:10px;
 }
