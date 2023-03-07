@@ -63,3 +63,7 @@ a {
 .img{
     size:10px;
 }
+th,td{
+    text-align: center;
+}
+
